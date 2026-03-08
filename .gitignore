@@ -1,0 +1,4 @@
+/.venv
+/bge_model_local
+/memory_store
+chat_history.txt
