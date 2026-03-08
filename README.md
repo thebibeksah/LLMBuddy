@@ -23,7 +23,7 @@ You should also have ollama models pre-installed in your device. I have used gpt
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/thebibeksah/LLMBuddy.git
 ```
 
 Go to the project directory
